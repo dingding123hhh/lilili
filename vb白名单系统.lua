@@ -2,7 +2,7 @@
 local whitu = false
 local Name = game.Players.LocalPlayer.Name
 
-if Name == "xszxwhbdd" then 
+if Name == "xszxd" then 
 whitu = true 
 elseif Name == "123fa98" then 
 whitu = true 
